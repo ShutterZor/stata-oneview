@@ -33,7 +33,7 @@ oneview make-foreign
 
 运行结果如下图所示。
 
-![image-20231014092645347](C:\Users\13398\AppData\Roaming\Typora\typora-user-images\image-20231014092645347.png)
+![image](example.png)
 
 ## 4. 其他说明
 
